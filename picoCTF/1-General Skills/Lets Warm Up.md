@@ -7,7 +7,9 @@ https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')&input=MHg3MA
 p
 picoCTF{p}
 ### solucion 2_ usando python
+
 ## Notas
-cyberchef es una pagina queme permite decodificar en diferentes formatos
+1. cyberchef es una pagina queme permite decodificar en diferentes formatos
+2. Puede usarse incluso el interprete de Python para convertir de hex a ascii
 ## Referencias
 https://gchq.github.io/CyberChef
