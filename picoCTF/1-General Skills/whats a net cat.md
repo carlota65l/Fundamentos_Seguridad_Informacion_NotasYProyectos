@@ -6,7 +6,7 @@ Using netcat (nc) is going to be pretty important. Can you connect to fickle-tem
 ### solucion 1_ usando python
 
 
-Conectarte por TCP a:
+Conectarse por TCP a:
 
 - **Host:** `fickle-tempest.picoctf.net`
     
