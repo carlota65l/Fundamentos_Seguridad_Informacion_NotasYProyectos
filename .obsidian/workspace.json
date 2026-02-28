@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTF Web 2/3 - Scavenger Hunt.md",
+                "file": "picoCTF/picoCTF Web 3/1-Irish-Name-Repo 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - Scavenger Hunt"
+              "title": "1-Irish-Name-Repo 1"
             }
           }
         ]
@@ -183,10 +183,14 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "c48dcb7fec2b763c",
+  "active": "97d0fc9c80f81c1f",
   "lastOpenFiles": [
-    "Pasted image 20260225121947.png",
+    "picoCTF/picoCTF Web 3/3 - JaWT Scratchpad.md",
+    "picoCTF/picoCTF Web 3/2 - More SQLi.md",
+    "picoCTF/picoCTF Web 3/1-Irish-Name-Repo 1.md",
     "picoCTF/picoCTF Web 2/3 - Scavenger Hunt.md",
+    "picoCTF/picoCTF Web 3",
+    "Pasted image 20260225121947.png",
     "picoCTF/picoCTF Web 2/2-Cookies.md",
     "picoCTF/picoCTF Web 2/1-GET aHEAD.md",
     "picoCTF/picoCTF Web 2/Sin título.md",
@@ -213,8 +217,6 @@
     "picoCTF/3-General Skills/7 - PW Crack 1.md",
     "Tareas/1 General Skills",
     "Tareas",
-    "picoCTF/3-General Skills/10 - Serpentine.md",
-    "picoCTF/3-General Skills/9 - PW Crack 3.md",
     "picoCTF/3-General Skills",
     "picoCTF/2-General Skills",
     "picoCTF/1-General Skills",
