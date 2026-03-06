@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTF Web 4/4 - Most Cookies.md",
+                "file": "picoCTF/Tareas/Tarea 2 - Web/10 - WebDecode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Most Cookies"
+              "title": "10 - WebDecode"
             }
           }
         ]
@@ -185,17 +185,30 @@
   },
   "active": "c48dcb7fec2b763c",
   "lastOpenFiles": [
+    "picoCTF/Tareas/Tarea 2 - Web/9- Unminify.md",
+    "picoCTF/Tareas/Tarea 2 - Web/8 - SQLiLite.md",
+    "picoCTF/Tareas/Tarea 2 - Web/7 - Secrets.md",
+    "picoCTF/Tareas/Tarea 2 - Web/6 - Roboto Sans.md",
+    "picoCTF/3-General Skills/8 - PW Crack 2.md",
+    "picoCTF/3-General Skills/9 - PW Crack 3.md",
+    "picoCTF/3-General Skills/10 - Serpentine.md",
+    "picoCTF/picoCTF Web 3/3 - JaWT Scratchpad.md",
+    "picoCTF/picoCTF Web 3/2 - More SQLi.md",
+    "picoCTF/picoCTF Web 3/1-Irish-Name-Repo 1.md",
+    "picoCTF/Tareas/Tarea 2 - Web/5 - Power Cookie.md",
+    "picoCTF/Tareas/Tarea 2 - Web/4 - Local Authority.md",
+    "picoCTF/Tareas/Tarea 2 - Web/3 - IntroToBurp.md",
+    "picoCTF/Tareas/Tarea 2 - Web/2 - Inspect HTML.md",
+    "picoCTF/Tareas/Tarea 2 - Web/1 - Includes.md",
+    "picoCTF/Tareas/Tarea 2 - Web/10 - WebDecode.md",
+    "picoCTF/picoCTF Web 4/4 - Most Cookies.md",
+    "picoCTF/Tareas/Tarea 2 - Web",
     "picoCTF/picoCTF Web 4/3 - Trickster.md",
     "picoCTF/picoCTF Web 4/2 - SOAP.md",
     "picoCTF/picoCTF Web 2/2-Cookies.md",
-    "picoCTF/picoCTF Web 3/1-Irish-Name-Repo 1.md",
-    "picoCTF/picoCTF Web 4/4 - Most Cookies.md",
     "picoCTF/picoCTF Web 4/1- MatchTheRegex.md",
-    "picoCTF/3-General Skills/8 - PW Crack 2.md",
     "picoCTF/picoCTF Web 1/1-Insp3ct0r.md",
     "picoCTF/picoCTF Web 4",
-    "picoCTF/picoCTF Web 3/3 - JaWT Scratchpad.md",
-    "picoCTF/picoCTF Web 3/2 - More SQLi.md",
     "picoCTF/picoCTF Web 2/3 - Scavenger Hunt.md",
     "picoCTF/picoCTF Web 3",
     "Pasted image 20260225121947.png",
@@ -203,25 +216,12 @@
     "picoCTF/picoCTF Web 2/Sin título.md",
     "picoCTF/1-General Skills/2warm.md",
     "picoCTF/picoCTF Web 2",
-    "picoCTF/picoCTF Web 1/6-Client-side-again.md",
-    "picoCTF/picoCTF Web 1/5-picobrowser.md",
-    "picoCTF/picoCTF Web 1/4- dont-use-client-side.md",
-    "picoCTF/picoCTF Web 1/3-logon.md",
-    "picoCTF/picoCTF Web 1/2-where are the robots.md",
-    "Tareas/1 General Skills/10 - ASCII Numbers.md",
     "picoCTF/picoCTF Web 1",
-    "Tareas/1 General Skills/9 - Binhexa.md",
-    "Tareas/1 General Skills/8 - Binary search.md",
-    "Tareas/1 General Skills/7 - Collaborative development.md",
-    "Tareas/1 General Skills/6 - Blame game.md",
-    "Tareas/1 General Skills/5 - time machine.md",
-    "Tareas/1 General Skills/4 - committee issue.md",
-    "Tareas/1 General Skills",
-    "Tareas",
+    "picoCTF/Tareas/1 General Skills",
+    "picoCTF/Tareas",
     "picoCTF/3-General Skills",
     "picoCTF/2-General Skills",
     "picoCTF/1-General Skills",
-    "picoCTF",
     "Sin título.canvas"
   ]
 }
