@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tareas/Tarea 2 - Web/10 - WebDecode.md",
+                "file": "picoCTF/Forensic 1/4 - extensions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - WebDecode"
+              "title": "4 - extensions"
             }
           }
         ]
@@ -185,6 +185,13 @@
   },
   "active": "c48dcb7fec2b763c",
   "lastOpenFiles": [
+    "picoCTF/Forensic 1/5 - What Lies Within.md",
+    "picoCTF/Forensic 1/4 - extensions.md",
+    "picoCTF/Forensic 1/3 - shark on wire 1.md",
+    "picoCTF/Forensic 1/2 - So Meta.md",
+    "picoCTF/Forensic 1/1 - Glory of the Garden.md",
+    "picoCTF/Tareas/Tarea 2 - Web/10 - WebDecode.md",
+    "picoCTF/Forensic 1",
     "picoCTF/Tareas/Tarea 2 - Web/9- Unminify.md",
     "picoCTF/Tareas/Tarea 2 - Web/8 - SQLiLite.md",
     "picoCTF/Tareas/Tarea 2 - Web/7 - Secrets.md",
@@ -200,28 +207,21 @@
     "picoCTF/Tareas/Tarea 2 - Web/3 - IntroToBurp.md",
     "picoCTF/Tareas/Tarea 2 - Web/2 - Inspect HTML.md",
     "picoCTF/Tareas/Tarea 2 - Web/1 - Includes.md",
-    "picoCTF/Tareas/Tarea 2 - Web/10 - WebDecode.md",
     "picoCTF/picoCTF Web 4/4 - Most Cookies.md",
     "picoCTF/Tareas/Tarea 2 - Web",
     "picoCTF/picoCTF Web 4/3 - Trickster.md",
     "picoCTF/picoCTF Web 4/2 - SOAP.md",
     "picoCTF/picoCTF Web 2/2-Cookies.md",
     "picoCTF/picoCTF Web 4/1- MatchTheRegex.md",
-    "picoCTF/picoCTF Web 1/1-Insp3ct0r.md",
     "picoCTF/picoCTF Web 4",
-    "picoCTF/picoCTF Web 2/3 - Scavenger Hunt.md",
     "picoCTF/picoCTF Web 3",
     "Pasted image 20260225121947.png",
-    "picoCTF/picoCTF Web 2/1-GET aHEAD.md",
-    "picoCTF/picoCTF Web 2/Sin título.md",
-    "picoCTF/1-General Skills/2warm.md",
     "picoCTF/picoCTF Web 2",
     "picoCTF/picoCTF Web 1",
     "picoCTF/Tareas/1 General Skills",
     "picoCTF/Tareas",
     "picoCTF/3-General Skills",
     "picoCTF/2-General Skills",
-    "picoCTF/1-General Skills",
     "Sin título.canvas"
   ]
 }
