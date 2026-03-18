@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic 2/5 - shark on wire 2.md",
+                "file": "picoCTF/Forensic 3/WebNet0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - shark on wire 2"
+              "title": "WebNet0"
             }
           }
         ]
@@ -185,11 +185,31 @@
   },
   "active": "c48dcb7fec2b763c",
   "lastOpenFiles": [
+    "picoCTF/Forensic 3/Webnet1.md",
+    "picoCTF/Forensic 3/tunn3l_v1s10n.md",
+    "picoCTF/Forensic 3/MacroHard WeakEdge.md",
+    "picoCTF/Forensic 3/Matryoshka doll.md",
+    "picoCTF/Forensic 3/WebNet0.md",
+    "picoCTF/Examen 1/web/SSTI1.md",
+    "picoCTF/Forensic 3",
+    "picoCTF/Examen 1/web/2 - Bookmarklet 1 2 2 3.md",
+    "picoCTF/Examen 1/web/2 - Bookmarklet 1 2 2 2.md",
+    "picoCTF/Examen 1/web/2 - Bookmarklet 1 2 2 1.md",
+    "picoCTF/Examen 1/web/2 - Bookmarklet 1 2 2.md",
+    "picoCTF/Examen 1/general skill/2 - Bookmarklet 1 2 1.md",
+    "picoCTF/Examen 1/web/head-dump.md",
+    "picoCTF/Examen 1/general skill/2 - Bookmarklet 1 2.md",
+    "picoCTF/Examen 1/web/Cookie Monster Secret Recipe.md",
+    "picoCTF/Examen 1/web/Bookmarklet.md",
+    "picoCTF/Examen 1/general skill/2 - Bookmarklet 1.md",
+    "picoCTF/Examen 1/general skill",
+    "picoCTF/Examen 1/web",
+    "picoCTF/Forensic 2/5 - shark on wire 2.md",
+    "picoCTF/Examen 1",
     "picoCTF/Forensic 2/4 - like1000.md",
     "picoCTF/Forensic 2/3 - c0rrupt.md",
     "picoCTF/Forensic 2/2 - WhitePages.md",
     "picoCTF/Forensic 2/1 - m00nwalk.md",
-    "picoCTF/Forensic 2/5 - shark on wire 2.md",
     "picoCTF/picoCTF Web 1/1-Insp3ct0r.md",
     "picoCTF/Forensic 2",
     "Sin título.base",
@@ -199,30 +219,10 @@
     "picoCTF/Forensic 1/5 - What Lies Within.md",
     "picoCTF/Forensic 1/3 - shark on wire 1.md",
     "picoCTF/Forensic 1/2 - So Meta.md",
-    "picoCTF/Forensic 1/1 - Glory of the Garden.md",
-    "picoCTF/Tareas/Tarea 2 - Web/10 - WebDecode.md",
     "picoCTF/Forensic 1",
-    "picoCTF/Tareas/Tarea 2 - Web/9- Unminify.md",
-    "picoCTF/Tareas/Tarea 2 - Web/8 - SQLiLite.md",
-    "picoCTF/Tareas/Tarea 2 - Web/7 - Secrets.md",
-    "picoCTF/Tareas/Tarea 2 - Web/6 - Roboto Sans.md",
-    "picoCTF/3-General Skills/8 - PW Crack 2.md",
-    "picoCTF/3-General Skills/9 - PW Crack 3.md",
-    "picoCTF/3-General Skills/10 - Serpentine.md",
-    "picoCTF/picoCTF Web 3/3 - JaWT Scratchpad.md",
-    "picoCTF/picoCTF Web 3/2 - More SQLi.md",
-    "picoCTF/picoCTF Web 3/1-Irish-Name-Repo 1.md",
-    "picoCTF/Tareas/Tarea 2 - Web/5 - Power Cookie.md",
-    "picoCTF/Tareas/Tarea 2 - Web/4 - Local Authority.md",
-    "picoCTF/Tareas/Tarea 2 - Web/3 - IntroToBurp.md",
-    "picoCTF/Tareas/Tarea 2 - Web/2 - Inspect HTML.md",
     "picoCTF/Tareas/Tarea 2 - Web",
     "picoCTF/picoCTF Web 4",
     "picoCTF/picoCTF Web 3",
-    "Pasted image 20260225121947.png",
-    "picoCTF/picoCTF Web 2",
-    "picoCTF/picoCTF Web 1",
-    "picoCTF/Tareas/1 General Skills",
-    "picoCTF/Tareas"
+    "Pasted image 20260225121947.png"
   ]
 }
