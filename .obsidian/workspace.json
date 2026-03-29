@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Examen 1/web/SQL Direct.md",
+                "file": "picoCTF/Tareas/Tarea 4 - Forensic/Secret of the Polyglot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Direct"
+              "title": "Secret of the Polyglot"
             }
           }
         ],
@@ -200,10 +200,20 @@
   },
   "active": "a8dc79dfe123d712",
   "lastOpenFiles": [
+    "picoCTF/Tareas/Tarea 4 - Forensic/Scan Surprise.md",
+    "picoCTF/Tareas/Tarea 4 - Forensic/CanYouSee.md",
+    "picoCTF/Tareas/Tarea 4 - Forensic/Ph4nt0m 1ntrud3r.md",
+    "picoCTF/Tareas/Tarea 4 - Forensic/RED.md",
+    "picoCTF/Tareas/Tarea 4 - Forensic/information.md",
+    "picoCTF/Tareas/Tarea 4 - Forensic/St3g0.md",
+    "picoCTF/Tareas/Tarea 4 - Forensic/hideme.md",
+    "picoCTF/Tareas/Tarea 4 - Forensic/Redaction gone wrong.md",
+    "picoCTF/Tareas/Tarea 4 - Forensic/Secret of the Polyglot.md",
+    "picoCTF/Tareas/Tarea 2 - Web/10 - WebDecode.md",
+    "picoCTF/Examen 1/web/SQL Direct.md",
     "picoCTF/Examen 1/web/Java Code Analysis.md",
     "picoCTF/Examen 1/web/SSTI2.md",
     "picoCTF/Examen 1/web/SSTI1.md",
-    "picoCTF/Examen 1/web/SQL Direct.md",
     "picoCTF/Examen 1/general skill/Specialer.md",
     "picoCTF/Examen 1/general skill/flag_shop.md",
     "picoCTF/Examen 1/general skill/SansAlpha.md",
@@ -216,18 +226,8 @@
     "picoCTF/Forensic 4/Operation Oni.md",
     "picoCTF/Forensic 4/Operation Orchid.md",
     "picoCTF/Forensic 4/Sleuthkit Apprentice.md",
-    "picoCTF/Forensic 4/Sleuthkit Intro.md",
-    "picoCTF/Forensic 4/Disk, disk, sleuth!.md",
-    "picoCTF/Forensic 4/Milkslap.md",
     "picoCTF/Tareas/Tarea 4 - Forensic",
-    "picoCTF/Examen 1/general skill/FANTASY CTF.md",
     "picoCTF/Forensic 4",
-    "picoCTF/Examen 1/web/Bookmarklet.md",
-    "picoCTF/Examen 1/web/Cookie Monster Secret Recipe.md",
-    "picoCTF/Examen 1/web/head-dump.md",
-    "picoCTF/Examen 1/web/findme.md",
-    "picoCTF/Competence/CTF1/crypth.md",
-    "picoCTF/Competence/CTF1/DISKO 4.md",
     "picoCTF/Competence/competencias/crypth",
     "picoCTF/Competence/CTF1",
     "picoCTF/Competence",
