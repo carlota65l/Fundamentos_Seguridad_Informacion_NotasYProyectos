@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTF Crypto/interencdec.md",
+                "file": "picoCTF/Retos Crypto 2/rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interencdec"
+              "title": "rsa-pop-quiz"
             }
           }
         ],
@@ -200,6 +200,9 @@
   },
   "active": "a8dc79dfe123d712",
   "lastOpenFiles": [
+    "picoCTF/picoCTF Crypto/interencdec.md",
+    "picoCTF/Retos Crypto 2/rsa-pop-quiz.md",
+    "picoCTF/Retos Crypto 2",
     "picoCTF/picoCTF Crypto/waves over lambda.md",
     "picoCTF/picoCTF Crypto/Tapping.md",
     "picoCTF/picoCTF Crypto/la cifra de.md",
@@ -207,7 +210,6 @@
     "picoCTF/picoCTF Crypto/Caesar.md",
     "picoCTF/picoCTF Crypto/13.md",
     "picoCTF/picoCTF Crypto/The numbers.md",
-    "picoCTF/picoCTF Crypto/interencdec.md",
     "picoCTF/PLANTILLA.md",
     "picoCTF/Tareas/Tarea 4 - Forensic/Secret of the Polyglot.md",
     "picoCTF/picoCTF Crypto",
@@ -226,7 +228,6 @@
     "picoCTF/Examen 1/web/SSTI1.md",
     "picoCTF/Examen 1/general skill/Specialer.md",
     "picoCTF/Examen 1/general skill/flag_shop.md",
-    "picoCTF/Examen 1/general skill/SansAlpha.md",
     "picoCTF/Tareas/Tarea 4 - Forensic",
     "picoCTF/Forensic 4",
     "picoCTF/Competence/competencias/crypth",
@@ -235,7 +236,6 @@
     "picoCTF/Forensic 3",
     "picoCTF/Examen 1/general skill",
     "picoCTF/Examen 1/web",
-    "picoCTF/Examen 1",
     "Competencia.canvas",
     "Sin título.canvas",
     "Pasted image 20260225121947.png"
