@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTF Crypto 3/Mini RSA.md",
+                "file": "picoCTF/picoCTF Crypto 4/flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mini RSA"
+              "title": "flags"
             }
           }
         ],
@@ -200,10 +200,17 @@
   },
   "active": "a8dc79dfe123d712",
   "lastOpenFiles": [
+    "picoCTF/picoCTF Crypto 4/ReadMyCert.md",
+    "picoCTF/picoCTF Crypto 4/HideToSee.md",
+    "picoCTF/picoCTF Crypto 4/basic-mod1.md",
+    "picoCTF/picoCTF Crypto 4/Pixelated.md",
+    "picoCTF/picoCTF Crypto 4/Pixelated 5.md",
+    "picoCTF/picoCTF Crypto 4/flags.md",
     "picoCTF/picoCTF Crypto 3/Mind your Ps and Qs.md",
+    "picoCTF/picoCTF Crypto 3/Mini RSA.md",
+    "picoCTF/picoCTF Crypto 4",
     "picoCTF/picoCTF Crypto 3/b00tl3gRSA3.md",
     "picoCTF/picoCTF Crypto 3/b00tl3gRSA2.md",
-    "picoCTF/picoCTF Crypto 3/Mini RSA.md",
     "picoCTF/Retos Crypto 2/rsa-pop-quiz.md",
     "picoCTF/picoCTF Crypto 3",
     "picoCTF/picoCTF Crypto/interencdec.md",
@@ -223,19 +230,12 @@
     "picoCTF/Tareas/Tarea 4 - Forensic/Ph4nt0m 1ntrud3r.md",
     "picoCTF/Tareas/Tarea 4 - Forensic/RED.md",
     "picoCTF/Tareas/Tarea 4 - Forensic/information.md",
-    "picoCTF/Tareas/Tarea 4 - Forensic/St3g0.md",
-    "picoCTF/Tareas/Tarea 4 - Forensic/hideme.md",
-    "picoCTF/Tareas/Tarea 4 - Forensic/Redaction gone wrong.md",
-    "picoCTF/Tareas/Tarea 2 - Web/10 - WebDecode.md",
-    "picoCTF/Examen 1/web/SQL Direct.md",
-    "picoCTF/Examen 1/web/Java Code Analysis.md",
     "picoCTF/Tareas/Tarea 4 - Forensic",
     "picoCTF/Forensic 4",
     "picoCTF/Competence/competencias/crypth",
     "picoCTF/Competence/CTF1",
     "picoCTF/Competence",
     "picoCTF/Forensic 3",
-    "picoCTF/Examen 1/general skill",
     "Competencia.canvas",
     "Sin título.canvas",
     "Pasted image 20260225121947.png"
