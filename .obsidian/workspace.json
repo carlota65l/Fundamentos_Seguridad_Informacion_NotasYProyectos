@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picoCTF Crypto 4/flags.md",
+                "file": "picoCTF/Tareas/Tarea 4 - Crypto/EVEN RSA CAN BE BROKEN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flags"
+              "title": "EVEN RSA CAN BE BROKEN"
             }
           }
         ],
@@ -200,12 +200,23 @@
   },
   "active": "a8dc79dfe123d712",
   "lastOpenFiles": [
+    "picoCTF/Tareas/Tarea 4 - Crypto/Vigenere.md",
+    "picoCTF/Tareas/Tarea 4 - Crypto/substitution2.md",
+    "picoCTF/Tareas/Tarea 4 - Crypto/substitution1.md",
+    "picoCTF/Tareas/Tarea 4 - Crypto/substitution0.md",
+    "picoCTF/Tareas/Tarea 4 - Crypto/rail-fence.md",
+    "picoCTF/Tareas/Tarea 4 - Crypto/morse-code.md",
+    "picoCTF/Tareas/Tarea 4 - Crypto/hashcrack.md",
+    "picoCTF/Tareas/Tarea 4 - Crypto/EVEN RSA CAN BE BROKEN.md",
+    "picoCTF/Tareas/Tarea 4 - Crypto/Crack the Power.md",
+    "picoCTF/Tareas/Tarea 4 - Crypto/credstuff.md",
+    "picoCTF/picoCTF Crypto 4/flags.md",
+    "picoCTF/Tareas/Tarea 4 - Crypto",
     "picoCTF/picoCTF Crypto 4/ReadMyCert.md",
     "picoCTF/picoCTF Crypto 4/HideToSee.md",
     "picoCTF/picoCTF Crypto 4/basic-mod1.md",
     "picoCTF/picoCTF Crypto 4/Pixelated.md",
     "picoCTF/picoCTF Crypto 4/Pixelated 5.md",
-    "picoCTF/picoCTF Crypto 4/flags.md",
     "picoCTF/picoCTF Crypto 3/Mind your Ps and Qs.md",
     "picoCTF/picoCTF Crypto 3/Mini RSA.md",
     "picoCTF/picoCTF Crypto 4",
@@ -219,23 +230,12 @@
     "picoCTF/picoCTF Crypto/Tapping.md",
     "picoCTF/picoCTF Crypto/la cifra de.md",
     "picoCTF/picoCTF Crypto/Easy 1.md",
-    "picoCTF/picoCTF Crypto/Caesar.md",
-    "picoCTF/picoCTF Crypto/13.md",
-    "picoCTF/picoCTF Crypto/The numbers.md",
-    "picoCTF/PLANTILLA.md",
-    "picoCTF/Tareas/Tarea 4 - Forensic/Secret of the Polyglot.md",
     "picoCTF/picoCTF Crypto",
-    "picoCTF/Tareas/Tarea 4 - Forensic/Scan Surprise.md",
-    "picoCTF/Tareas/Tarea 4 - Forensic/CanYouSee.md",
-    "picoCTF/Tareas/Tarea 4 - Forensic/Ph4nt0m 1ntrud3r.md",
-    "picoCTF/Tareas/Tarea 4 - Forensic/RED.md",
-    "picoCTF/Tareas/Tarea 4 - Forensic/information.md",
     "picoCTF/Tareas/Tarea 4 - Forensic",
     "picoCTF/Forensic 4",
     "picoCTF/Competence/competencias/crypth",
     "picoCTF/Competence/CTF1",
     "picoCTF/Competence",
-    "picoCTF/Forensic 3",
     "Competencia.canvas",
     "Sin título.canvas",
     "Pasted image 20260225121947.png"
