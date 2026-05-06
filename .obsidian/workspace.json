@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Reversing Parte 1/vault-door-5.md",
+                "file": "picoCTF/Reversing Parte 2/Picker IV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vault-door-5"
+              "title": "Picker IV"
             }
           }
         ],
@@ -200,10 +200,17 @@
   },
   "active": "a8dc79dfe123d712",
   "lastOpenFiles": [
+    "picoCTF/Reversing Parte 2/Picker III.md",
+    "picoCTF/Reversing Parte 2/Picker IV.md",
+    "picoCTF/Reversing Parte 2/Picker II.md",
+    "picoCTF/Reversing Parte 2/Picker I.md",
+    "picoCTF/Reversing Parte 2/timer.md",
+    "picoCTF/Reversing Parte 2/Safe Opener 2.md",
+    "picoCTF/Reversing Parte 1/vault-door-5.md",
+    "picoCTF/Reversing Parte 2",
     "picoCTF/Reversing Parte 1/vault-door-4.md",
     "picoCTF/Reversing Parte 1/vault-door-3.md",
     "picoCTF/Reversing Parte 1/vault-door-1.md",
-    "picoCTF/Reversing Parte 1/vault-door-5.md",
     "picoCTF/Reversing Parte 1/vault-door-training.md",
     "picoCTF/Retos Crypto 2/rsa-pop-quiz.md",
     "picoCTF/Tareas/Tarea 4 - Crypto/EVEN RSA CAN BE BROKEN.md",
@@ -222,12 +229,6 @@
     "picoCTF/Tareas/Tarea 4 - Crypto/Vigenere.md",
     "picoCTF/Tareas/Tarea 4 - Crypto/substitution2.md",
     "picoCTF/Tareas/Tarea 4 - Crypto/substitution1.md",
-    "picoCTF/Tareas/Tarea 4 - Crypto/substitution0.md",
-    "picoCTF/Tareas/Tarea 4 - Crypto/rail-fence.md",
-    "picoCTF/Tareas/Tarea 4 - Crypto/morse-code.md",
-    "picoCTF/Tareas/Tarea 4 - Crypto/hashcrack.md",
-    "picoCTF/Tareas/Tarea 4 - Crypto/Crack the Power.md",
-    "picoCTF/Tareas/Tarea 4 - Crypto/credstuff.md",
     "picoCTF/Tareas/Tarea 4 - Crypto",
     "picoCTF/picoCTF Crypto 4",
     "picoCTF/picoCTF Crypto 3",
@@ -235,7 +236,6 @@
     "picoCTF/picoCTF Crypto",
     "picoCTF/Tareas/Tarea 4 - Forensic",
     "picoCTF/Forensic 4",
-    "picoCTF/Competence/competencias/crypth",
     "Competencia.canvas",
     "Sin título.canvas",
     "Pasted image 20260225121947.png"
